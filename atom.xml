@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[张小杰不是小姐]]></title>
+  <subtitle><![CDATA[男人只說三分話，留著七分打天下]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://llwszjj.github.io/"/>
+  <updated>2014-11-02T09:59:52.076Z</updated>
+  <id>http://llwszjj.github.io/</id>
+  
+  <author>
+    <name><![CDATA[llwszjj]]></name>
+    <email><![CDATA[llwszjj@qq.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[First Blood]]></title>
+    <link href="http://llwszjj.github.io/2014/11/02/First-Blood/"/>
+    <id>http://llwszjj.github.io/2014/11/02/First-Blood/</id>
+    <published>2014-11-02T09:45:30.000Z</published>
+    <updated>2014-11-02T09:51:19.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="Brief_Introduction">Brief Introduction</h2>
+<p>闲来无事，就照着<a href="http://zipperary.com/" target="_blank" rel="external">zippera</a>的blog，搞了个这么一个东东，目前实在是没啥可写的，附上工作环境两张图。   </p>
+<h2 id="工作环境">工作环境</h2>
+<p><img src="/images/益园1.jpg" alt="益园"><br><img src="/images/益园2.jpg" alt="益园"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="Brief_Introduction">Brief Introduction</h2>
+<p>闲来无事，就照着<a href="http://zipperary.com/" target="_blank" rel="external">zippera</a>的bl]]>
+    </summary>
+    
+      <category term="blog" scheme="http://llwszjj.github.io/categories/blog/"/>
+    
+  </entry>
+  
+</feed>
